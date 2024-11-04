@@ -1,1 +1,2 @@
-EE Calculators: js code
+EE Calculators: firebase webhosting project dolbonosik2@gmail.com
+
